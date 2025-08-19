@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Работа с проектом и приложением
 
 ## Задание
@@ -44,3 +45,4 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
